@@ -1,0 +1,65 @@
+
+
+
+body
+{
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+.phoneContainer
+{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.phone
+{
+    border:1px dotted;
+    padding:10px 40px 40px 20px;
+    width:380px;
+    height: 120px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-image: linear-gradient(to bottom, #dcb4ca, #d7bad3, #d2c0d9, #cec6de, #cccce0, #c7d1e9, #c0d6f2, #b6dcf8, #99e4ff, #71eeff, #42f6fe, #0dfdec);
+    position:relative;
+    bottom:500px;
+}
+
+
+.phoneName
+{
+    font-size: 20px;
+    font-weight: bold;   
+    color:#00969e;
+    text-align: center;
+}
+
+
+.phoneOk
+{
+    padding:5px 20px 5px 20px;
+    background-color: dcb4ca;
+    border: none;
+    border-radius: 10px;
+    margin-top:20px;
+    transition: all 0.3s ease-in-out;
+}
+
+.phoneOk:hover
+{
+    cursor: pointer;
+    opacity: 60%;
+
+}
+
+.phoneNumber
+{
+    font-size: 20px;
+    color:#00969e;
+    margin-top:5px;
+}

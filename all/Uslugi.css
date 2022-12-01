@@ -1,0 +1,114 @@
+.NrUslugi
+{
+    font-size:18px;
+    color:#00969e;
+    text-align:left;
+
+}
+
+
+
+.opisUslugi
+{
+    font-size: 15px;
+    color:grey;
+    display: flex;
+    text-align:left;
+    justify-content:left;
+    
+
+}
+
+.umow1
+{
+    background-color: #00969e;
+    border-radius: 15px;
+    border: none;
+    padding:10px;
+    position: relative;
+    bottom:50px;
+    left:700px;
+    
+}
+
+.umow1:hover
+{
+    cursor: pointer;
+    background-color: #00747c;
+}
+
+.umow2
+{
+    background-color: #00969e;
+    border-radius: 15px;
+    border: none;
+    padding:10px;
+    position: relative;
+    bottom:50px;
+    left:700px;
+    
+}
+
+.umow2:hover
+{
+    cursor: pointer;
+    background-color: #00747c;
+}
+
+.umow3
+{
+    background-color: #00969e;
+    border-radius: 15px;
+    border: none;
+    padding:10px;
+    position: relative;
+    bottom:50px;
+    left:700px;
+    
+}
+
+.umow3:hover
+{
+    cursor: pointer;
+    background-color: #00747c;
+}
+
+.umow4
+{
+    background-color: #00969e;
+    border-radius: 15px;
+    border: none;
+    padding:10px;
+    position: relative;
+    bottom:50px;
+    left:700px;
+    
+}
+
+.umow4:hover
+{
+    cursor: pointer;
+    background-color: #00747c;
+}
+
+.usluga
+{
+    position:relative;
+    bottom:20px;
+}
+
+.title
+{
+    text-align: center;
+    color:#00969e;
+    font-size: 30px;
+}
+
+.infoDescription
+{
+   font-size:16px;
+   margin-left: auto;
+   margin-right: auto;
+   letter-spacing: 1px;
+   
+}
